@@ -1,0 +1,6 @@
+name: EpicEnvoys
+version: ${project.version}
+main: dev.mrshawn.epicenvoys.EpicEnvoys
+prefix: EpicEnvoys
+softdepend: [HolographicDisplays, PlaceholderAPI, Vault, MVdWPlaceholderAPI]
+authors: [MrShawn]
